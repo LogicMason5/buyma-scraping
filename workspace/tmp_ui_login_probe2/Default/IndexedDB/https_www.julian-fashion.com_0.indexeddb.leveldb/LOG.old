@@ -1,0 +1,6 @@
+2026/08/15-03:35:23.171 1ce0 Creating DB C:\development\EC-Buyma\workspace\tmp_ui_login_probe2\Default\IndexedDB\https_www.julian-fashion.com_0.indexeddb.leveldb since it was missing.
+2026/08/15-03:35:23.177 1ce0 Reusing MANIFEST C:\development\EC-Buyma\workspace\tmp_ui_login_probe2\Default\IndexedDB\https_www.julian-fashion.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/15-03:35:23.190 3550 Level-0 table #5: started
+2026/08/15-03:35:23.222 3550 Level-0 table #5: 1430 bytes OK
+2026/08/15-03:35:23.223 3550 Delete type=0 #3
+2026/08/15-03:35:23.235 3550 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

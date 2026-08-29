@@ -1,0 +1,1023 @@
+{
+  "julian-fashion": {
+    "home": "https://www.julian-fashion.com/en-JP",
+    "session": "C:\\development\\EC-Buyma\\dist\\EC-Buyma\\secrets\\ec_sessions\\julian-fashion\\storage_state.json",
+    "guest_or_current_login": {
+      "url": "https://www.julian-fashion.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cuanVsaWFuLWZhc2hpb24uY29tIiwiZXhwIjoxNzg2NzI3Nzc1LCJpYXQiOjE3ODY3Mjc3NjUsImlzcyI6InRpZXIxLTdkODVkYjc0YjUtcmc1bGoiLCJzdWIiOiIxMDMuMTc5LjQ1LjE1MyIsImRhdGEiOnsidHlwZSI6Imlzc3VlZCIsInJlZiI6IjIwMjYwODE0VDE3MTYwNVotMTdkODVkYjc0YjVyZzVsamhDMVRZT2ZjazQwMDAwMDAwc3JnMDAwMDAwMDAxMnV2IiwiYiI6IjVqNzM4TVFuT1JBQlNBN2hYZzNFaWhvWWxDd0drbjV6aldncnRxZk51T3MiLCJoIjoiMGZRM2QwMjBPQXFaNG5PdG5UY1paWFhfaWZzZ3ViYU9qWU9IUVlEXzRRdyJ9fQ.rCHKuB_SED8FKplyTuU8MsMyJ6hvexoWX7j9iOwnvbgaFzMy8isNWR0CFzabnAWEt6DzHjgm8Vr5rxsF_y3gXnFgiTIOQvUFu_eeWJFd03YGWFHsN5dUWMf2omMYW7CJCWHVTUKIhLE51PCdyav5JWOaVH2RbguKtzIxFwvLvVqC2OgjXtLRY_Q3G6x_FgbPssES_SwDy_lfa1_mizpt1Y1gRAx3fbUy15zATA211seYAHYg_nvhU1xYXfMV24sLHf9XHR9ihTjmapQ6g9REsNrPudPOcGFSEOZ8wVPjPTr1qDApLk1oR9hy-D62Sz6LMsy4Bb_2A84qgEpeaK6qUg.WF3obl2IDtqgvMFRqVdYkD5s",
+      "title": "User Login - JP",
+      "text": "Consent\nDetails\nAbout\nThis website uses cookies\n\nWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic.\n\nWe also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.\n\nTo find out more, you can read the full policy by clicking here.\n\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nDeny\nAllow selection\nAllow all\nWOMAN MAN KIDS HOME & LIFESTYLE BRAND SALE\nSIGN IN WITH YOUR ACCOUNT\nEmail\nPassword\nforgotten password?\nOR WITH YOUR SOCIAL MEDIA ACCOUNT\n \n \nDON'T HAVE YOUR JULIAN ACCOUNT YET?\nShop quickly, create wishlists and check your orders\nREGISTER\nABOUT JULIAN FASHION\nOur Stores\nOur Story\nSubscribe to our newsletter\nSustainable\nWhistleblowing\nCUSTOMER CARE\nContacts\nMake a Return\nCheck the status of your orders\nSHOPPING ONLINE\nGeneral Terms and Conditions\nLegal Terms & Privacy Policy\nPayment methods\nShipping methods\nReturn Conditions\nUpdate cookie preferences\nCookies policy\nAccessibility\nMyAREA\nLogin\nMy orders\nWishlist\nYOUR PREFERENCES\nItaliano\nEnglish\nDeutsch\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa (US)\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua & Barbuda\nArgentina\nArmenia\nAruba (Netherlands)\nAustralia\nAustria\nAzerbaijan\nBahrain\nBangladesh\nBarbados\nBelgium\nBelize\nBenin\nBermuda (UK)\nBhutan\nBolivia\nBonaire\nBosnia and Herzegovina\nBotsawa\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands (UK)\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands (UK)\nCentral African Republic\nChad\nChile\nColombia\nComoros\nCook Islands (NZ)\nCosta Rica\nCote d'Ivoire\nCroatia\nCuba\nCu",
+      "links": [
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/home_lifestyle/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/home_lifestyle/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Log in",
+          "href": "/en-JP/user/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/en-JP/user/login",
+          "aria": "Log in to your account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "javascript:;",
+          "aria": "Log in to your account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/en-JP/user/forgotpassword",
+          "aria": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ExternalCookie",
+          "href": "",
+          "aria": "Login with AppleId"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Facebook",
+          "href": "",
+          "aria": "Login with FacebookId"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Google",
+          "href": "",
+          "aria": "Login with GoogleId"
+        },
+        {
+          "tag": "A",
+          "text": "forgotten password?",
+          "href": "/en-JP/user/forgotpassword",
+          "aria": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ExternalCookie",
+          "href": "",
+          "aria": "Login with AppleId"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Facebook",
+          "href": "",
+          "aria": "Login with FacebookId"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Google",
+          "href": "",
+          "aria": "Login with GoogleId"
+        },
+        {
+          "tag": "A",
+          "text": "Login",
+          "href": "/en-JP/user/login",
+          "aria": ""
+        }
+      ],
+      "passwords": [
+        {
+          "id": "login_password",
+          "name": "login_password",
+          "visible": true
+        },
+        {
+          "id": "login_password",
+          "name": "login_password",
+          "visible": true
+        }
+      ],
+      "member_session_confirmed": false,
+      "login_url": "https://www.julian-fashion.com/en-JP/user/login"
+    },
+    "with_saved_cookies_home": {
+      "url": "https://www.julian-fashion.com/en-JP",
+      "title": "Julian Fashion Boutique - SS26 - Luxury Fashion Online - JP",
+      "text": "WOMAN MAN KIDS HOME & LIFESTYLE BRAND SALE\nSHOP WOMEN SHOP MEN\nABOUT JULIAN FASHION\nOur Stores\nOur Story\nSubscribe to our newsletter\nSustainable\nWhistleblowing\nCUSTOMER CARE\nContacts\nMake a Return\nCheck the status of your orders\nSHOPPING ONLINE\nGeneral Terms and Conditions\nLegal Terms & Privacy Policy\nPayment methods\nShipping methods\nReturn Conditions\nUpdate cookie preferences\nCookies policy\nAccessibility\nMyAREA\nMy orders\nWishlist\nLogout\nYOUR PREFERENCES\nItaliano\nEnglish\nDeutsch\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa (US)\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua & Barbuda\nArgentina\nArmenia\nAruba (Netherlands)\nAustralia\nAustria\nAzerbaijan\nBahrain\nBangladesh\nBarbados\nBelgium\nBelize\nBenin\nBermuda (UK)\nBhutan\nBolivia\nBonaire\nBosnia and Herzegovina\nBotsawa\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands (UK)\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands (UK)\nCentral African Republic\nChad\nChile\nColombia\nComoros\nCook Islands (NZ)\nCosta Rica\nCote d'Ivoire\nCroatia\nCuba\nCuracao\nCyprus\nCzech Republic\nDemocratic Republic of the Congo\nDenmark\nDominica\nDominican Republic\nEast Timor\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEthiopia\nFalkland Islands (UK)\nFaroe Islands (Denmark)\nFederated States of Micronesia\nFiji\nFinland\nFrance\nFrench Guiana (France)\nFrench Polynesia (France)\nGabon\nGambia\nGeorgia (CSI)\nGermany\nGhana\nGibouti\nGibraltar (UK)\nGreece\nGreenland (Denmark)\nGrenada\nGuadeloupe (France)\nGuam (US)\nGuatemala\nGuernsey (British crown dependency)\nGuinea\nGuinea Bissau\nGuyana (UK)\nHaiti\nHeard Island And Mcdonald Islands\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIsle of Man (British crown dependency)\nIsrael\nItaly\nJamaica\nJapan\nJersey (British Crown Dependency)\nJordan\n",
+      "links": [
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/home_lifestyle/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/home_lifestyle/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/en-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Logout",
+          "href": "/en-JP/user/logout",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/en-JP/user/modify",
+          "aria": "Log in to your account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "javascript:;",
+          "aria": "Log in to your account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/en-JP/user/logout",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Logout",
+          "href": "/en-jp/user/logout",
+          "aria": ""
+        }
+      ],
+      "passwords": [],
+      "member_session_confirmed": false,
+      "login_url": "https://www.julian-fashion.com/en-JP/user/login"
+    },
+    "with_saved_cookies_login": {
+      "url": "https://www.julian-fashion.com/",
+      "title": "Julian Fashion Boutique - SS26 - Luxury Fashion Online - IT",
+      "text": "DONNA UOMO KIDS HOME & LIFESTYLE BRAND SALDI\nSHIPPING TO JAPAN?\nThe shipping costs and items price are based on destination country\nCONFIRM\nSHIP TO\nITALY\nSHOP DONNA SHOP UOMO\nABOUT JULIAN FASHION\nLe nostre Boutique\nLa nostra storia\nIscriviti alla newsletter\nSostenibilità\nWhistleblowing\nCUSTOMER CARE\nContatti\nEffettua un reso\nVerifica lo stato dei tuoi ordini\nSHOPPING ONLINE\nCondizioni Generali di Vendita\nTermini legali & privacy\nMetodi di pagamento\nModalità di spedizione\nCondizioni di Reso\nAggiorna preferenze cookie\nCookies policy\nAccessibilità\nLA TUA AREA\nI miei ordini\nWishlist\nLogout\nLE TUE PREFERENZE\nItaliano\nEnglish\nDeutsch\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa (US)\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua & Barbuda\nArgentina\nArmenia\nAruba (Netherlands)\nAustralia\nAustria\nAzerbaijan\nBahrain\nBangladesh\nBarbados\nBelgium\nBelize\nBenin\nBermuda (UK)\nBhutan\nBolivia\nBonaire\nBosnia and Herzegovina\nBotsawa\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands (UK)\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands (UK)\nCentral African Republic\nChad\nChile\nColombia\nComoros\nCook Islands (NZ)\nCosta Rica\nCote d'Ivoire\nCroatia\nCuba\nCuracao\nCyprus\nCzech Republic\nDemocratic Republic of the Congo\nDenmark\nDominica\nDominican Republic\nEast Timor\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEthiopia\nFalkland Islands (UK)\nFaroe Islands (Denmark)\nFederated States of Micronesia\nFiji\nFinland\nFrance\nFrench Guiana (France)\nFrench Polynesia (France)\nGabon\nGambia\nGeorgia (CSI)\nGermany\nGhana\nGibouti\nGibraltar (UK)\nGreece\nGreenland (Denmark)\nGrenada\nGuadeloupe (France)\nGuam (US)\nGuatemala\nGuernsey (British crown dependency)\nGuinea\nGuinea Bissau\nGuyana (UK)\nHaiti\nHeard Island And Mcdonald Islands\nHonduras\nHo",
+      "links": [
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/donna/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/donna/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/uomo/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/uomo/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/home_lifestyle/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/home_lifestyle/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "BRAND",
+          "href": "/it-IT/uomo/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Logout",
+          "href": "/it-IT/user/logout",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/it-IT/user/modify",
+          "aria": "Accedi al tuo account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "javascript:;",
+          "aria": "Accedi al tuo account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/it-IT/user/logout",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Logout",
+          "href": "/it-it/user/logout",
+          "aria": ""
+        }
+      ],
+      "passwords": [],
+      "member_session_confirmed": true,
+      "login_url": "https://www.julian-fashion.com/en-JP/user/login"
+    }
+  },
+  "montiboutique": {
+    "home": "https://www.montiboutique.com/en-JP",
+    "session": "C:\\development\\EC-Buyma\\dist\\EC-Buyma\\secrets\\ec_sessions\\montiboutique\\storage_state.json",
+    "guest_or_current_login": {
+      "url": "https://www.montiboutique.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cubW9udGlib3V0aXF1ZS5jb20iLCJleHAiOjE3ODY3Mjc4MTQsImlhdCI6MTc4NjcyNzgwNCwiaXNzIjoidGllcjEtN2Q4NWRiNzRiNS1uN202biIsInN1YiI6IjEwMy4xNzkuNDUuMTUzIiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA4MTRUMTcxNjQ0Wi0xN2Q4NWRiNzRiNW43bTZuaEMxVFlPc2Q4dzAwMDAwMDB0MDAwMDAwMDAwMDBkMmsiLCJiIjoiN3hMV0hObnJybW9yM3hocWZTVldwcVQzR0NUa1oxQ2dWM29RZUJqQjZaayIsImgiOiJWVEJLdS1DZkV4SXBJVkQyRzk3eXRPbE5rYlRPS1BySVlkM25tcmxoQnE4In19.sSyxlh1NKfeFke2-J4eLXLhD8guC_xXWm03tlf55Aiil2QeQN8KCWvvsX9wM-Gqaf2xqmQGBMlGoU3xXt3jVy8SUX-LtrI9cyknY1tXblsHuyJG4XAa3RThtkta6HULovY0G-QO9W_0NL8iNUCYJKHg833ASIo1tZNAuiko_l7ksrxcMpCKUwTkzuR82XEdc_Y29IVmHntcFR5RXvbCza9gzR8NzX9rxem_q_CsnaCKgGdpfA4XjONpC4ZBr_94zkibyNQc407lQm4dNbEQAPOgMMEG2IQnyivwufacW-sFb0pq8hMN4nDOJxKrqMkibGMJPcTfs9KGER3qZBiM6cw.WF3obl2IDtqgvMFRqVdYkD5s",
+      "title": "",
+      "text": "Consent\nDetails\nAbout\nThis website uses cookies\nWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nDeny\nAllow selection\nAllow all\nWOMAN\n \nMAN\n \nKIDS\n \nHOME & LIFESTYLE\n \nDESIGNERS\n \nBOUTIQUE\nREGISTERED CUSTOMERS\nNEW CUSTOMERS\nCHECK EMAIL \nWEBSITE \nEmail\nPassword\nForgotten your password?\nLog in\nOR SIGN IN WITH\n \n \nCHECK EMAIL \nWEBSITE \nEmail\nPassword\nNation\nSelect a nation\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa (US)\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua & Barbuda\nArgentina\nArmenia\nAruba (Netherlands)\nAustralia\nAustria\nAzerbaijan\nBahrain\nBalearic Islands\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda (UK)\nBhutan\nBolivia\nBonaire\nBosnia and Herzegovina\nBotsawa\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands (UK)\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCanary Islands\nCape Verde\nCayman Islands (UK)\nCentral African Republic\nChad\nChannel Islands\nChile\nColombia\nComoros\nCook Islands (NZ)\nCosta Rica\nCôte d'Ivoire\nCroatia\nCuba\nCuracao\nCyprus\nCzech Republic\nDemocratic Republic of the Congo\nDenmark\nDominica\nDominican Republic\nEast Timor\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEthiopia\nFalkland Islands (UK)\nFaroe Islands (Denmark)\nFederated States of Micronesia\nFiji\nFinland\nFrance\nFrench Guiana (France)\nFrench Polynesia (France)\nGabon\nGambia\nGeorgia (CSI)\nGermany\nGhana\nGibouti\nGibraltar (UK)\nGreece\nGreenland (Denmark)\nGrenada\nGuadel",
+      "links": [
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/EN-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/EN-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "DESIGNERS",
+          "href": "https://www.montiboutique.com/EN-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Log in",
+          "href": "https://www.montiboutique.com/en-JP/user/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "javascript:;",
+          "aria": "account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/en-JP/user/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Forgotten your password?",
+          "href": "https://www.montiboutique.com/en-JP/user/forgotpassword",
+          "aria": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Log in",
+          "href": "",
+          "aria": ""
+        }
+      ],
+      "passwords": [
+        {
+          "id": "login_password",
+          "name": "login_password",
+          "visible": true
+        },
+        {
+          "id": "password",
+          "name": "password",
+          "visible": true
+        }
+      ],
+      "member_session_confirmed": false,
+      "login_url": "https://www.montiboutique.com/en-JP/user/login"
+    },
+    "with_saved_cookies_home": {
+      "url": "https://www.montiboutique.com/en-JP",
+      "title": "Monti Boutique",
+      "text": "WOMAN\n \nMAN\n \nKIDS\n \nHOME & LIFESTYLE\n \nDESIGNERS\n \nBOUTIQUE\nWOMEN SALE\nMEN SALE\nSALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   |    SALE UP TO 50% OFF THE SS26 COLLECTION  WOMEN SALE  /  MEN SALE   \nWHAT'S NEW\nDonna Uomo Kids\nSNEAKERS\nFOR HER\nSNEAKERS\nFOR HIM\nOUR SS26 SELECTION\nDRESS FOR THE OCCASION\nOUR BOUTIQUES\nDivided into four stores, with a total area of 550 square meters and 15 windows, Monti is a historic fashion boutique that expertly combines tradition with a more modern and contemporary",
+      "links": [
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/EN-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/EN-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "DESIGNERS",
+          "href": "https://www.montiboutique.com/EN-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Log in",
+          "href": "https://www.montiboutique.com/en-JP/user/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "javascript:;",
+          "aria": "account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/en-JP/user/login",
+          "aria": ""
+        }
+      ],
+      "passwords": [],
+      "member_session_confirmed": false,
+      "login_url": "https://www.montiboutique.com/en-JP/user/login"
+    },
+    "with_saved_cookies_login": {
+      "url": "https://www.montiboutique.com/en-JP/user/login",
+      "title": "",
+      "text": "SS26 NOW ON SALE, UP TO 50% OFF \nWOMAN\n \nMAN\n \nKIDS\n \nHOME & LIFESTYLE\n \nDESIGNERS\n \nBOUTIQUE\nREGISTERED CUSTOMERS\nNEW CUSTOMERS\nCHECK EMAIL \nWEBSITE \nEmail\nPassword\nForgotten your password?\nLog in\nOR SIGN IN WITH\n \n \nCHECK EMAIL \nWEBSITE \nEmail\nPassword\nNation\nSelect a nation\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa (US)\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua & Barbuda\nArgentina\nArmenia\nAruba (Netherlands)\nAustralia\nAustria\nAzerbaijan\nBahrain\nBalearic Islands\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda (UK)\nBhutan\nBolivia\nBonaire\nBosnia and Herzegovina\nBotsawa\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands (UK)\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCanary Islands\nCape Verde\nCayman Islands (UK)\nCentral African Republic\nChad\nChannel Islands\nChile\nColombia\nComoros\nCook Islands (NZ)\nCosta Rica\nCôte d'Ivoire\nCroatia\nCuba\nCuracao\nCyprus\nCzech Republic\nDemocratic Republic of the Congo\nDenmark\nDominica\nDominican Republic\nEast Timor\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEthiopia\nFalkland Islands (UK)\nFaroe Islands (Denmark)\nFederated States of Micronesia\nFiji\nFinland\nFrance\nFrench Guiana (France)\nFrench Polynesia (France)\nGabon\nGambia\nGeorgia (CSI)\nGermany\nGhana\nGibouti\nGibraltar (UK)\nGreece\nGreenland (Denmark)\nGrenada\nGuadeloupe (France)\nGuam (US)\nGuatemala\nGuernsey (British crown dependency)\nGuinea Bissau\nGuinea, Republic of\nGuyana (UK)\nHaiti\nHeard Island And Mcdonald Islands\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIsle of Man (British crown dependency)\nIsrael\nItaly\nJamaica\nJapan\nJersey (British Crown Dependency)\nJordan\nKazakhstan\nKenya\nKiribati\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMacau\nMaced",
+      "links": [
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/EN-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/EN-JP/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "DESIGNERS",
+          "href": "https://www.montiboutique.com/EN-JP/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Log in",
+          "href": "https://www.montiboutique.com/en-JP/user/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "javascript:;",
+          "aria": "account"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "https://www.montiboutique.com/en-JP/user/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Forgotten your password?",
+          "href": "https://www.montiboutique.com/en-JP/user/forgotpassword",
+          "aria": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Log in",
+          "href": "",
+          "aria": ""
+        }
+      ],
+      "passwords": [
+        {
+          "id": "login_password",
+          "name": "login_password",
+          "visible": true
+        },
+        {
+          "id": "password",
+          "name": "password",
+          "visible": true
+        }
+      ],
+      "member_session_confirmed": false,
+      "login_url": "https://www.montiboutique.com/en-JP/user/login"
+    }
+  },
+  "minettiangeloonline": {
+    "home": "https://www.angelominetti.it/",
+    "session": "C:\\development\\EC-Buyma\\dist\\EC-Buyma\\secrets\\ec_sessions\\minettiangeloonline\\storage_state.json",
+    "guest_or_current_login": {
+      "url": "https://www.angelominetti.it/login",
+      "title": "Login",
+      "text": "contact us: customerservice@angelominetti.it\nsubcribe to our newsletter and get 15% OFF\n \nwoman\nman\nkids\nlifestyle\narchive\ndesigners\nmonferrato\nSEARCH\nSIGN IN\nCART\nHOME  LOG IN TO YOUR ACCOUNT\nLog in to your account\nEmail\nPassword\nForgot your password?\nSIGN IN\nNo account? Create one here \nABOUT US\nOur Heritage\nThe Boutiques\nOpening Hours\nTERMS & LEGAL\nTerms & Conditions\nPrivacy Policy\nCookies Policy\nSHIPPING AND RETURNS\nShipping & Delivery\nReturns\nSecure payments\nINFORMATIONS\nContact us\nSize info\nNew products\n \n\nMinetti Angelo S.R.L. Via Roma 158, 15033 Casale Monferrato Codice Fiscale P.iva 00494280068 importo capitale sociale 15000 interamente versato Numero REA:AL -8659 Customerservice@angelominetti.it\n\nTO GIVE YOU THE BEST POSSIBLE EXPERIENCE, THIS SITE USES COOKIES. WE USE OUR OWN AND 3RD PARTY COOKIES ON THIS SITE FOR ANALYTICS AND ADVERTISING. USING YOUR SITE MEANS YOUR AGREE TO OUR USE OF COOKIES. WE HAVE PUBLISHED A NEW COOKIES POLICY, WHICH YOU SHOULD NEED TO FIND OUT MORE ABOUT THE COOKIES WE USE. VIEW COOKIES POLICY.\n\nACCEPT DECLINE",
+      "links": [
+        {
+          "tag": "A",
+          "text": "AED AED",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=14",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "AUD $",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=2",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "CAD $",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=3",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "CHF CHF",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=12",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "CNY ¥",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=4",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "EUR €",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=1",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "GBP £",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=15",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "HKD $",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=5",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "JPY ¥",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=6",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "MXN $",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=8",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "RUB ₽",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=9",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "SAR SAR",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=10",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "TWD $",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=13",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "USD $",
+          "href": "https://www.angelominetti.it/login?SubmitCurrency=1&id_currency=7",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "designers",
+          "href": "https://www.angelominetti.it/brands",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "https://www.angelominetti.it/brands",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "SIGN IN",
+          "href": "https://www.angelominetti.it/my-account",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Sign in",
+          "href": "https://www.angelominetti.it/my-account",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Forgot your password?",
+          "href": "https://www.angelominetti.it/password-recovery",
+          "aria": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "SIGN IN",
+          "href": "",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "No account? Create one here",
+          "href": "https://www.angelominetti.it/login?create_account=1",
+          "aria": ""
+        }
+      ],
+      "passwords": [
+        {
+          "id": "",
+          "name": "password",
+          "visible": true
+        }
+      ],
+      "member_session_confirmed": false,
+      "login_url": "https://www.angelominetti.it/login"
+    },
+    "with_saved_cookies_home": {
+      "url": "https://www.angelominetti.it/",
+      "title": "Angelo Minetti",
+      "text": "contact us: customerservice@angelominetti.it\nsubcribe to our newsletter and get 15% OFF\n \nwoman\nman\nkids\nlifestyle\narchive\ndesigners\nmonferrato\nSEARCH\nYASUSHI\nCART\nGUCCI Montecarlo\nFEAR OF GOD ESSENTIALS\nVALENTINO GARAVANI - Fireflies\nADIDAS X SONG FOR THE MUTE - New Launch\nWILLY CHAVARRIA - Huron\nNEW SEASON\nISABEL MARANT\nchocolate suede dewina boots\n€405.74\nSIZE 36 37 38 39 40\nHOGAN\nwhite and pink sneakers *\n€189.34 €344.26 -45%\nSIZE 38½ 39\nNEW SEASON\nGUCCI\ndark brown leather loafers\n€778.69\nSIZE 36 36½ 37 37½ 38½ 39 40\nMAX MARA\npink cotton shorts *\n€155.74 €311.48 -50%\nSIZE 40\nSELF-PORTRAIT\npink mini dress *\n€184.43 €368.85 -50%\nSIZE 6 8 10 12\nCASADEI\nwhite leather ash nexus sneakers *\n€259.22 €471.31 -45%\nSIZE 36½ 37½ 38½ 40\nGIVENCHY\nligth blue cotton 4g stars t-shirt\n€450.82\nSIZE XS S\nNEW SEASON\nBALENCIAGA\nblack leather le city uptown mini top handle bag\n€1,631.15\nSIZE UNI\nNEW SEASON\nMARANT ETOILE\nbrown cotton sweatshirt\n€225.41\nSIZE 34 36 38\nMOSCHINO\nblack cotton skirt *\n€237.70 €475.41 -50%\nSIZE 42\nNEW SEASON\nALEXANDER WANG\nblack cotton dress\n€299.18\nSIZE XS S\nNEW SEASON\nGUCCI\nblack leather jackie hobo medium shoulder bag\n€2,254.10\nSIZE UNI\nLARDINI - Nativa Capsule\nMM6 MAISON MARGIELA X SALOMON\nPLEATS PLEASE ISSEY MIYAKE\nAdidas Originals by Willy Chavarria Survivalist\nTHE ROW - Discover the Essential\nBALENCIAGA - Summer 26\nABOUT US\nOur Heritage\nThe Boutiques\nOpening Hours\nTERMS & LEGAL\nTerms & Conditions\nPrivacy Policy\nCookies Policy\nSHIPPING AND RETURNS\nShipping & Delivery\nReturns\nSecure payments\nINFORMATIONS\nContact us\nSize info\nNew products\n \n\nMinetti Angelo S.R.L. Via Roma 158, 15033 Casale Monferrato Codice Fiscale P.iva 00494280068 importo capitale sociale 15000 interamente versato Numero REA:AL -8659 Customerservice@angelominetti.it",
+      "links": [
+        {
+          "tag": "A",
+          "text": "designers",
+          "href": "https://www.angelominetti.it/brands",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "https://www.angelominetti.it/brands",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "//www.angelominetti.it/?mylogout=",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "yasushi",
+          "href": "https://www.angelominetti.it/my-account",
+          "aria": ""
+        }
+      ],
+      "passwords": [],
+      "member_session_confirmed": true,
+      "login_url": "https://www.angelominetti.it/login"
+    },
+    "with_saved_cookies_login": {
+      "url": "https://www.angelominetti.it/my-account",
+      "title": "My account",
+      "text": "contact us: customerservice@angelominetti.it\nsubcribe to our newsletter and get 15% OFF\n \nwoman\nman\nkids\nlifestyle\narchive\ndesigners\nmonferrato\nSEARCH\nYASUSHI\nCART\nHOME  YOUR ACCOUNT\nYour account\n Information\n Addresses\n Order history and details\n Credit slips\n Vouchers\n Sign out\nIt is your account dashboard. Choose your section.\nABOUT US\nOur Heritage\nThe Boutiques\nOpening Hours\nTERMS & LEGAL\nTerms & Conditions\nPrivacy Policy\nCookies Policy\nSHIPPING AND RETURNS\nShipping & Delivery\nReturns\nSecure payments\nINFORMATIONS\nContact us\nSize info\nNew products\n \n\nMinetti Angelo S.R.L. Via Roma 158, 15033 Casale Monferrato Codice Fiscale P.iva 00494280068 importo capitale sociale 15000 interamente versato Numero REA:AL -8659 Customerservice@angelominetti.it",
+      "links": [
+        {
+          "tag": "A",
+          "text": "AED AED",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=14",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "AUD $",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=2",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "CAD $",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=3",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "CHF CHF",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=12",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "CNY ¥",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=4",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "EUR €",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=1",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "GBP £",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=15",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "HKD $",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=5",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "JPY ¥",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=6",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "MXN $",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=8",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "RUB ₽",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=9",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "SAR SAR",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=10",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "TWD $",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=13",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "USD $",
+          "href": "https://www.angelominetti.it/my-account?SubmitCurrency=1&id_currency=7",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "designers",
+          "href": "https://www.angelominetti.it/brands",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "https://www.angelominetti.it/brands",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "//www.angelominetti.it/?mylogout=",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "yasushi",
+          "href": "https://www.angelominetti.it/my-account",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Sign out",
+          "href": "//www.angelominetti.it/?mylogout=",
+          "aria": ""
+        }
+      ],
+      "passwords": [],
+      "member_session_confirmed": true,
+      "login_url": "https://www.angelominetti.it/login"
+    }
+  },
+  "eleonorabonucci": {
+    "home": "https://eleonorabonucci.com/",
+    "session": "C:\\development\\EC-Buyma\\dist\\EC-Buyma\\secrets\\ec_sessions\\eleonorabonucci\\storage_state.json",
+    "guest_or_current_login": {
+      "url": "https://eleonorabonucci.com/en/myaccount/login",
+      "title": "",
+      "text": "Premi Alt+1 per la modalità lettore dello schermo, Alt+0 per annullare\nGuida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra\nWOMEN\nMEN\nKIDS\nHOME\nNEW IN\nCLOTHING \nFOOTWEAR \nACCESSORIES \nBAGS \nSale \nDesigners\n My Account\nItaly - En | EUR - €\nWOMEN\nMEN\nKIDS\nITALY - EN | EUR - €\n MY ACCOUNT\nAND ON ORDERS OVER €200. EXCLUSIONS APPLY.\nEXTRA 10% OFF FW26 WITH PROMO CODE HOT10, VALID ON A SELECTION OF FW26 ITEMS MARKED WITH A ★\nNEW IN\nCLOTHING\nFOOTWEAR\nACCESSORIES\nBAGS\nSALE\nDESIGNERS\n0\n0\nLogin\n\nIf you already have an account, login with your e-mail address and password.\n\nEMAIL:\nPASSWORD:\nSIGN IN FORGOT PASSWORD\n\n\nCreate account\n\nIf this is your first time, enter your email address and click on \"Register\". It will help make your shopping experience even better.\n\nEMAIL:\nREGISTER\nCONTACT US\nOpening Hours:\nMon-Fri 08:30 - 13:00 / 14:00 - 17:30 (CET)\nClosed on Sat/Sun and holidays\nPhone: +39 0761.398011\nEmail: customerservice@eleonorabonucci.com\n\n\n\nSome content on this website, including product descriptions and images, has been generated with the assistance of artificial intelligence tools and subsequently reviewed by our team. In accordance with Article 50 of Regulation (EU) 2024/1689 (AI Act).\n\n \n\nCUSTOMER SERVICE\nCustomer Service\nGeneral Terms Of Sale\nPayment\nShipment\nReturn Policy\nABOUT ELEONORA BONUCCI\nPrivacy\nThe Website\nThe Boutiques\nProperty Copyright\nCookie Policy\nCareers\nParità Di Genere\nWhistleblowing\nPAYMENT METHODS\n       \nCopyrights © Eleonora Bonucci SRL - P.Iva 02025100567\nNotice\n\nWe (eleonorabonucci.com) and selected third parties (11) use cookies or similar technologies for technical purposes and, with your consent, for experience, measurement and “marketing (personalized ads)” as specified in the cookie policy.\n\n",
+      "links": [
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/kids/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "MY ACCOUNT",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "DESIGNERS",
+          "href": "/en/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "SIGN IN",
+          "href": "javascript:__doPostBack('ctl00$MainContent$login$CmdLogin','')",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "FORGOT PASSWORD",
+          "href": "javascript:__doPostBack('ctl00$MainContent$login$CmdRecoveryPassword','')",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "REGISTER",
+          "href": "javascript:__doPostBack('ctl00$MainContent$login$CmdAddEmail','')",
+          "aria": ""
+        }
+      ],
+      "passwords": [
+        {
+          "id": "MainContent_login_LoginP",
+          "name": "ctl00$MainContent$login$LoginP",
+          "visible": true
+        }
+      ],
+      "member_session_confirmed": false,
+      "login_url": "https://eleonorabonucci.com/en/myaccount/login"
+    },
+    "with_saved_cookies_home": {
+      "url": "https://eleonorabonucci.com/",
+      "title": "Shop ELEONORABONUCCI.COM - Luxury Worldwide Shopping - Men & Women Fashion Designer - ITALY",
+      "text": "Premi Alt+1 per la modalità lettore dello schermo, Alt+0 per annullare\nGuida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra\nWOMEN\nMEN\nKIDS\nHOME\nNEW IN\nCLOTHING \nFOOTWEAR \nACCESSORIES \nBAGS \nSale \nDesigners\n My Account\nItaly - En | EUR - €\nWOMEN\nMEN\nKIDS\nITALY - EN | EUR - €\n MY ACCOUNT\nAND ON ORDERS OVER €200. EXCLUSIONS APPLY.\nEXTRA 10% OFF FW26 WITH PROMO CODE HOT10, VALID ON A SELECTION OF FW26 ITEMS MARKED WITH A ★\nNEW IN\nCLOTHING\nFOOTWEAR\nACCESSORIES\nBAGS\nSALE\nDESIGNERS\n0\n0\nDiscover latest Arrivals\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nSANDALS\nThe standout styles of the season\nSHOP NOW\nSWIMWEAR\nBeach style\nSHOP NOW\nStylish Shoes\nGUCCI\nBALLERINA CON MORSETTO\n€ 800.00\nPARIS TEXAS\nSANDALO LIDIA CON TACCO\n€ 695.00 -30% € 486.50\nFW26 \nTOM FORD\nSANDALO EFFETTO NUDO A PUNTA\n€ 1,020.00\nFW26\nFENDI\nSLINGBACK COLIBRÌ LITE CON TACCO MEDIO\n€ 980.00\nGUCCI\nSANDALO CON MORSETTO\n€ 780.00\nFW26 \nMAGDA BUTRYM\nSANDALO INFRADITO IN RASO CON FIORE\n€ 890.00\nTHE ATTICO\nSANDALO INDIE\n€ 397.00 -30% € 277.90\nSENSO\nSANDALO FARAH CON TACCO\n€ 169.00 -30% € 118.30\nGUCCI\nBALLERINA CON MORSETTO\n€ 800.00\nPARIS TEXAS\nSANDALO LIDIA CON TACC",
+      "links": [
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/kids/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "MY ACCOUNT",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "DESIGNERS",
+          "href": "/en/women/designers",
+          "aria": ""
+        }
+      ],
+      "passwords": [],
+      "member_session_confirmed": false,
+      "login_url": "https://eleonorabonucci.com/en/myaccount/login"
+    },
+    "with_saved_cookies_login": {
+      "url": "https://eleonorabonucci.com/en/myaccount/login",
+      "title": "",
+      "text": "Premi Alt+1 per la modalità lettore dello schermo, Alt+0 per annullare\nGuida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra\nWOMEN\nMEN\nKIDS\nHOME\nNEW IN\nCLOTHING \nFOOTWEAR \nACCESSORIES \nBAGS \nSale \nDesigners\n My Account\nItaly - En | EUR - €\nWOMEN\nMEN\nKIDS\nITALY - EN | EUR - €\n MY ACCOUNT\nAND ON ORDERS OVER €200. EXCLUSIONS APPLY.\nEXTRA 10% OFF FW26 WITH PROMO CODE HOT10, VALID ON A SELECTION OF FW26 ITEMS MARKED WITH A ★\nNEW IN\nCLOTHING\nFOOTWEAR\nACCESSORIES\nBAGS\nSALE\nDESIGNERS\n0\n0\nLogin\n\nIf you already have an account, login with your e-mail address and password.\n\nEMAIL:\nPASSWORD:\nSIGN IN FORGOT PASSWORD\n\n\nCreate account\n\nIf this is your first time, enter your email address and click on \"Register\". It will help make your shopping experience even better.\n\nEMAIL:\nREGISTER\nCONTACT US\nOpening Hours:\nMon-Fri 08:30 - 13:00 / 14:00 - 17:30 (CET)\nClosed on Sat/Sun and holidays\nPhone: +39 0761.398011\nEmail: customerservice@eleonorabonucci.com\n\n\n\nSome content on this website, including product descriptions and images, has been generated with the assistance of artificial intelligence tools and subsequently reviewed by our team. In accordance with Article 50 of Regulation (EU) 2024/1689 (AI Act).\n\n \n\nCUSTOMER SERVICE\nCustomer Service\nGeneral Terms Of Sale\nPayment\nShipment\nReturn Policy\nABOUT ELEONORA BONUCCI\nPrivacy\nThe Website\nThe Boutiques\nProperty Copyright\nCookie Policy\nCareers\nParità Di Genere\nWhistleblowing\nPAYMENT METHODS\n       \nCopyrights © Eleonora Bonucci SRL - P.Iva 02025100567\nYour consent preferences for tracking technologies",
+      "links": [
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/men/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "Designers",
+          "href": "/en/kids/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "My Account",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "MY ACCOUNT",
+          "href": "/en/myaccount/login",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "DESIGNERS",
+          "href": "/en/women/designers",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "SIGN IN",
+          "href": "javascript:__doPostBack('ctl00$MainContent$login$CmdLogin','')",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "FORGOT PASSWORD",
+          "href": "javascript:__doPostBack('ctl00$MainContent$login$CmdRecoveryPassword','')",
+          "aria": ""
+        },
+        {
+          "tag": "A",
+          "text": "REGISTER",
+          "href": "javascript:__doPostBack('ctl00$MainContent$login$CmdAddEmail','')",
+          "aria": ""
+        }
+      ],
+      "passwords": [
+        {
+          "id": "MainContent_login_LoginP",
+          "name": "ctl00$MainContent$login$LoginP",
+          "visible": true
+        }
+      ],
+      "member_session_confirmed": false,
+      "login_url": "https://eleonorabonucci.com/en/myaccount/login"
+    }
+  }
+}

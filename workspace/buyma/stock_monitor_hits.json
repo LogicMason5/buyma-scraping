@@ -1,0 +1,15 @@
+[
+  {
+    "index": 0,
+    "name": "Gone Item",
+    "brand": "T",
+    "source_url": "https://www.julian-fashion.com/en-JP/product/0/missing/missing/gone",
+    "buyma_url": "",
+    "folder": "T_Gone",
+    "status_code": 404,
+    "reason": "HTTP 404",
+    "inventory": 0,
+    "sell_price": "",
+    "checked_at": "2026-08-14T11:19:26"
+  }
+]

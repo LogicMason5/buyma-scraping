@@ -1,0 +1,8 @@
+2026/08/15-03:40:27.857 1494 Creating DB C:\development\EC-Buyma\workspace\tmp_ui_login_probe3\Default\Local Storage\leveldb since it was missing.
+2026/08/15-03:40:28.827 1494 Reusing MANIFEST C:\development\EC-Buyma\workspace\tmp_ui_login_probe3\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/15-03:40:56.342 3db8 Level-0 table #5: started
+2026/08/15-03:40:56.366 3db8 Level-0 table #5: 1092522 bytes OK
+2026/08/15-03:40:56.370 3db8 Delete type=0 #3
+2026/08/15-03:41:28.861 3db8 Level-0 table #7: started
+2026/08/15-03:41:28.882 3db8 Level-0 table #7: 467253 bytes OK
+2026/08/15-03:41:28.934 3db8 Delete type=0 #4

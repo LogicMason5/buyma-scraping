@@ -1,0 +1,676 @@
+{
+  "julian-fashion": {
+    "ok": true,
+    "final_url": "https://www.julian-fashion.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cuanVsaWFuLWZhc2hpb24uY29tIiwiZXhwIjoxNzg2NzI2NTgwLCJpYXQiOjE3ODY3MjY1NzAsImlzcyI6InRpZXIxLTY4NDQ2YjU1ZjQteG5waDIiLCJzdWIiOiIxMDMuMTc5LjQ1LjE1MyIsImRhdGEiOnsidHlwZSI6Imlzc3VlZCIsInJlZiI6IjIwMjYwODE0VDE2NTYxMFotMTY4NDQ2YjU1ZjR4bnBoMmhDMVRZT3VlMmcwMDAwMDAwcm0wMDAwMDAwMDAxd3FyIiwiYiI6IlpGa2RTcHNFWXpXWWJDZmFSa0VtOHBjb2xUM0I4U0JtTjVrSjRqcEluOUUiLCJoIjoiWEV4ZFAza3RyZHV5U2d4aXpxaWpiZkJoVEJHUWNoaWpiRWpBV29qbTR5SSJ9fQ.R4AR6JFA1lHA9Oix6LwWpSGAfwCUAfYXjzFFPsg8DjEfQfUhfgjko5cfr77Z2h3kIW9OFKDy7WqNSL8C-9KNV3NYRmdt3PrmoqoI-oOpeTOjVFOPfWGdIvTgU9BnKUCSzOS11vEmX5VuGonKZst82cr5SljlqjZoAD-em0wOVllzMbJPEDE0d6zbf3AgIzruY6QK3zvyd95ni2RJXI5QCK-mHJDS80pN_sM59VSHNAq6XBMhIAjUA1I-KELGPJnQbxucqcNlqkja4aEPMV6oJxDC_jNoG6dYDJNs2MNSBleAeuB4J0-qNRh7YwHvbO0I2Ckt4MdaJZmudbeoZZrAzA.WF3obl2IDtqgvMFRqVdYkD5s",
+    "title": "User Login - JP",
+    "password_inputs": [
+      {
+        "type": "password",
+        "name": "login_password",
+        "id": "login_password",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "email_inputs": [
+      {
+        "type": "email",
+        "name": "login_email",
+        "id": "login_email",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonNecessary",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonPreferences",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonStatistics",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonMarketing",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "email",
+        "name": "login_email",
+        "id": "login_email",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "password",
+        "name": "login_password",
+        "id": "login_password",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "user-login-submit",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "buttons": [
+      "Close banner",
+      "Consent",
+      "Details",
+      "About",
+      "here",
+      "Deny",
+      "Allow selection",
+      "Allow all",
+      "WOMAN",
+      "MAN",
+      "KIDS",
+      "HOME & LIFESTYLE",
+      "BRAND",
+      "SALE",
+      "Back to home page",
+      "Open the search bar",
+      "Country and language selector",
+      "Log in to your account",
+      "View your favourites",
+      "View cart",
+      "forgotten password?",
+      "Log in",
+      "ExternalCookie",
+      "Facebook",
+      "Google",
+      "REGISTER",
+      "Our Stores",
+      "Our Story",
+      "Subscribe to our newsletter",
+      "Sustainable",
+      "Whistleblowing",
+      "Contacts",
+      "Make a Return",
+      "Check the status of your orders",
+      "General Terms and Conditions",
+      "Legal Terms & Privacy Policy",
+      "Payment methods",
+      "Shipping methods",
+      "Return Conditions",
+      "Update cookie preferences"
+    ],
+    "auth_links": [
+      {
+        "text": "Consent",
+        "href": "https://www.julian-fashion.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cuanVsaWFuLWZhc2hpb24uY29tIiwiZXhwIjoxNzg2NzI2NTgwLCJpYXQiOjE3ODY3MjY1NzAsImlzcyI6InRpZXIxLTY4NDQ2YjU1ZjQteG5waDIiLCJzdWIiOiIxMDMuMTc5LjQ1LjE1MyIsImRhdGEiOnsidHlwZSI6Imlzc3VlZCIsInJlZiI6IjIwMjYwODE0VDE2NTYxMFotMTY4NDQ2YjU1ZjR4bnBoMmhDMVRZT3VlMmcwMDAwMDAwcm0wMDAwMDAwMDAxd3FyIiwiYiI6IlpGa2RTcHNFWXpXWWJDZmFSa0VtOHBjb2xUM0I4U0JtTjVrSjRqcEluOUUiLCJoIjoiWEV4ZFAza3RyZHV5U2d4aXpxaWpiZkJoVEJHUWNoaWpiRWpBV29qbTR5SSJ9fQ.R4AR6JFA1lHA9Oix6LwWpSGAfwCUAfYXjzFFPsg8DjEfQfUhfgjko5cfr77Z2h3kIW9OFKDy7WqNSL8C-9KNV3NYRmdt3PrmoqoI-oOpeTOjVFOPfWGdIvTgU9BnKUCSzOS11vEmX5VuGonKZst82cr5SljlqjZoAD-em0wOVllzMbJPEDE0d6zbf3AgIzruY6QK3zvyd95ni2RJXI5QCK-mHJDS80pN_sM59VSHNAq6XBMhIAjUA1I-KELGPJnQbxucqcNlqkja4aEPMV6oJxDC_jNoG6dYDJNs2MNSBleAeuB4J0-qNRh7YwHvbO0I2Ckt4MdaJZmudbeoZZrAzA.WF3obl2IDtqgvMFRqVdYkD5s#",
+        "aria": ""
+      },
+      {
+        "text": "Details",
+        "href": "https://www.julian-fashion.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cuanVsaWFuLWZhc2hpb24uY29tIiwiZXhwIjoxNzg2NzI2NTgwLCJpYXQiOjE3ODY3MjY1NzAsImlzcyI6InRpZXIxLTY4NDQ2YjU1ZjQteG5waDIiLCJzdWIiOiIxMDMuMTc5LjQ1LjE1MyIsImRhdGEiOnsidHlwZSI6Imlzc3VlZCIsInJlZiI6IjIwMjYwODE0VDE2NTYxMFotMTY4NDQ2YjU1ZjR4bnBoMmhDMVRZT3VlMmcwMDAwMDAwcm0wMDAwMDAwMDAxd3FyIiwiYiI6IlpGa2RTcHNFWXpXWWJDZmFSa0VtOHBjb2xUM0I4U0JtTjVrSjRqcEluOUUiLCJoIjoiWEV4ZFAza3RyZHV5U2d4aXpxaWpiZkJoVEJHUWNoaWpiRWpBV29qbTR5SSJ9fQ.R4AR6JFA1lHA9Oix6LwWpSGAfwCUAfYXjzFFPsg8DjEfQfUhfgjko5cfr77Z2h3kIW9OFKDy7WqNSL8C-9KNV3NYRmdt3PrmoqoI-oOpeTOjVFOPfWGdIvTgU9BnKUCSzOS11vEmX5VuGonKZst82cr5SljlqjZoAD-em0wOVllzMbJPEDE0d6zbf3AgIzruY6QK3zvyd95ni2RJXI5QCK-mHJDS80pN_sM59VSHNAq6XBMhIAjUA1I-KELGPJnQbxucqcNlqkja4aEPMV6oJxDC_jNoG6dYDJNs2MNSBleAeuB4J0-qNRh7YwHvbO0I2Ckt4MdaJZmudbeoZZrAzA.WF3obl2IDtqgvMFRqVdYkD5s#",
+        "aria": ""
+      },
+      {
+        "text": "About",
+        "href": "https://www.julian-fashion.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cuanVsaWFuLWZhc2hpb24uY29tIiwiZXhwIjoxNzg2NzI2NTgwLCJpYXQiOjE3ODY3MjY1NzAsImlzcyI6InRpZXIxLTY4NDQ2YjU1ZjQteG5waDIiLCJzdWIiOiIxMDMuMTc5LjQ1LjE1MyIsImRhdGEiOnsidHlwZSI6Imlzc3VlZCIsInJlZiI6IjIwMjYwODE0VDE2NTYxMFotMTY4NDQ2YjU1ZjR4bnBoMmhDMVRZT3VlMmcwMDAwMDAwcm0wMDAwMDAwMDAxd3FyIiwiYiI6IlpGa2RTcHNFWXpXWWJDZmFSa0VtOHBjb2xUM0I4U0JtTjVrSjRqcEluOUUiLCJoIjoiWEV4ZFAza3RyZHV5U2d4aXpxaWpiZkJoVEJHUWNoaWpiRWpBV29qbTR5SSJ9fQ.R4AR6JFA1lHA9Oix6LwWpSGAfwCUAfYXjzFFPsg8DjEfQfUhfgjko5cfr77Z2h3kIW9OFKDy7WqNSL8C-9KNV3NYRmdt3PrmoqoI-oOpeTOjVFOPfWGdIvTgU9BnKUCSzOS11vEmX5VuGonKZst82cr5SljlqjZoAD-em0wOVllzMbJPEDE0d6zbf3AgIzruY6QK3zvyd95ni2RJXI5QCK-mHJDS80pN_sM59VSHNAq6XBMhIAjUA1I-KELGPJnQbxucqcNlqkja4aEPMV6oJxDC_jNoG6dYDJNs2MNSBleAeuB4J0-qNRh7YwHvbO0I2Ckt4MdaJZmudbeoZZrAzA.WF3obl2IDtqgvMFRqVdYkD5s#",
+        "aria": ""
+      },
+      {
+        "text": "BRAND",
+        "href": "https://www.julian-fashion.com/en-JP%EF%BB%BF/women/designers",
+        "aria": ""
+      },
+      {
+        "text": "",
+        "href": "javascript:;",
+        "aria": "Log in to your account"
+      },
+      {
+        "text": "Login",
+        "href": "https://www.julian-fashion.com/en-JP/user/login",
+        "aria": ""
+      }
+    ],
+    "body_preview": "Consent\nDetails\nAbout\nThis website uses cookies\n\nWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic.\n\nWe also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.\n\nTo find out more, you can read the full policy by clicking here.\n\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nDeny\nAllow selection\nAllow all\nWOMAN MAN KIDS HOME & LIFESTYLE BRAND SALE\nSIGN IN WITH YOUR ACCOUNT\nEmail\nPassword\nforgotten password?\nOR WITH YOUR SOCIAL MEDIA ACCOUNT\n \n \nDON'T HAVE YOUR JULIAN ACCOUNT YET?\nShop quickly, create wishlists and check your orders\nREGISTER\nAB"
+  },
+  "montiboutique": {
+    "ok": true,
+    "final_url": "https://www.montiboutique.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cubW9udGlib3V0aXF1ZS5jb20iLCJleHAiOjE3ODY3MjY1ODcsImlhdCI6MTc4NjcyNjU3NywiaXNzIjoidGllcjEtNjg0NDZiNTVmNC1wenR2eiIsInN1YiI6IjEwMy4xNzkuNDUuMTUzIiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA4MTRUMTY1NjE3Wi0xNjg0NDZiNTVmNHB6dHZ6aEMxVFlPZDB4MDAwMDAwMDByeDAwMDAwMDAwMDE1YnEiLCJiIjoiWDJQTjVTZTFnbEg4R2R2QmxYUjFadkxOYjNzRDcwRVdZamdzZGlXY1MxbyIsImgiOiIxZ29sOFMzY3l1bFYyZWtNNlZJdm1ORkc1THlLeXAxZ1JwUWpybHpWanNJIn19.Bq-a1pBNsavB0PEeziMHWTxxoknQQoyaubGKQ3MHulKc-FQPvyaHi95KFbUSuAwn7JVlUq9iYUgcKoOsiIMNCRPlk4z7xZKRMiNKlMDyM5L_0fzacr8kgGAONEpQixzkv3d09kCt5qZqE6iRqG5IqmFuKXh2R8w81iltg3jeNY4qlmj6W-FOSah0h4TnKL0x7aD5Fty-uLYycfSWJABT1MK7H3cV0_CbfooW_OF0HDy8t24sEIPgBD5abU4reN-KBdbNkOEV_K59ywCTn_Ps5cRLgY_U5eFnmk2GHqmQzjfoJip-aheCxbKdPzsRfEavpsvm-SUiFlq9jphyAYPtGw.WF3obl2IDtqgvMFRqVdYkD5s",
+    "title": "",
+    "password_inputs": [
+      {
+        "type": "password",
+        "name": "login_password",
+        "id": "login_password",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "email_inputs": [
+      {
+        "type": "text",
+        "name": "checkemail",
+        "id": "checkemail-login",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "email",
+        "name": "login_email",
+        "id": "login_email",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "checkemail",
+        "id": "checkemail-register",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "register_email",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "checkemail",
+        "id": "checkemail-modal_newsletter",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "email_newsletter",
+        "id": "email_newsletter",
+        "placeholder": "Email",
+        "autocomplete": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonNecessary",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonPreferences",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonStatistics",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "CybotCookiebotDialogBodyLevelButtonMarketing",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "checkemail",
+        "id": "checkemail-login",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "website",
+        "id": "website-login",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "email",
+        "name": "login_email",
+        "id": "login_email",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "password",
+        "name": "login_password",
+        "id": "login_password",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "checkemail",
+        "id": "checkemail-register",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "website",
+        "id": "website-register",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "register_email",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "nome",
+        "id": "nome",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "cognome",
+        "id": "cognome",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "checkemail",
+        "id": "checkemail-modal_newsletter",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "website",
+        "id": "website-modal_newsletter",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "text",
+        "name": "email_newsletter",
+        "id": "email_newsletter",
+        "placeholder": "Email",
+        "autocomplete": ""
+      }
+    ],
+    "buttons": [
+      "Consent",
+      "Details",
+      "About",
+      "Deny",
+      "Allow selection",
+      "Allow all",
+      "WOMAN",
+      "MAN",
+      "KIDS",
+      "HOME & LIFESTYLE",
+      "DESIGNERS",
+      "BOUTIQUE",
+      "search",
+      "account",
+      "bag",
+      "REGISTERED CUSTOMERS",
+      "NEW CUSTOMERS",
+      "Forgotten your password?",
+      "Log in",
+      "ExternalCookie",
+      "Facebook",
+      "Google",
+      "Terms and Privacy Policy",
+      "Privacy Policy",
+      "CREATE ACCOUNT",
+      "ExternalCookie",
+      "Facebook",
+      "Google",
+      "customercare@montiboutique.com",
+      "+39 3290946128",
+      "+39 3290946128",
+      "My acccount",
+      "My orders",
+      "Wishlist",
+      "Make a Return",
+      "Payment methods",
+      "Shipping methods",
+      "RETURN POLICY",
+      "Privacy Policy",
+      "Cookie Policy"
+    ],
+    "auth_links": [
+      {
+        "text": "Consent",
+        "href": "https://www.montiboutique.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cubW9udGlib3V0aXF1ZS5jb20iLCJleHAiOjE3ODY3MjY1ODcsImlhdCI6MTc4NjcyNjU3NywiaXNzIjoidGllcjEtNjg0NDZiNTVmNC1wenR2eiIsInN1YiI6IjEwMy4xNzkuNDUuMTUzIiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA4MTRUMTY1NjE3Wi0xNjg0NDZiNTVmNHB6dHZ6aEMxVFlPZDB4MDAwMDAwMDByeDAwMDAwMDAwMDE1YnEiLCJiIjoiWDJQTjVTZTFnbEg4R2R2QmxYUjFadkxOYjNzRDcwRVdZamdzZGlXY1MxbyIsImgiOiIxZ29sOFMzY3l1bFYyZWtNNlZJdm1ORkc1THlLeXAxZ1JwUWpybHpWanNJIn19.Bq-a1pBNsavB0PEeziMHWTxxoknQQoyaubGKQ3MHulKc-FQPvyaHi95KFbUSuAwn7JVlUq9iYUgcKoOsiIMNCRPlk4z7xZKRMiNKlMDyM5L_0fzacr8kgGAONEpQixzkv3d09kCt5qZqE6iRqG5IqmFuKXh2R8w81iltg3jeNY4qlmj6W-FOSah0h4TnKL0x7aD5Fty-uLYycfSWJABT1MK7H3cV0_CbfooW_OF0HDy8t24sEIPgBD5abU4reN-KBdbNkOEV_K59ywCTn_Ps5cRLgY_U5eFnmk2GHqmQzjfoJip-aheCxbKdPzsRfEavpsvm-SUiFlq9jphyAYPtGw.WF3obl2IDtqgvMFRqVdYkD5s#",
+        "aria": ""
+      },
+      {
+        "text": "Details",
+        "href": "https://www.montiboutique.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cubW9udGlib3V0aXF1ZS5jb20iLCJleHAiOjE3ODY3MjY1ODcsImlhdCI6MTc4NjcyNjU3NywiaXNzIjoidGllcjEtNjg0NDZiNTVmNC1wenR2eiIsInN1YiI6IjEwMy4xNzkuNDUuMTUzIiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA4MTRUMTY1NjE3Wi0xNjg0NDZiNTVmNHB6dHZ6aEMxVFlPZDB4MDAwMDAwMDByeDAwMDAwMDAwMDE1YnEiLCJiIjoiWDJQTjVTZTFnbEg4R2R2QmxYUjFadkxOYjNzRDcwRVdZamdzZGlXY1MxbyIsImgiOiIxZ29sOFMzY3l1bFYyZWtNNlZJdm1ORkc1THlLeXAxZ1JwUWpybHpWanNJIn19.Bq-a1pBNsavB0PEeziMHWTxxoknQQoyaubGKQ3MHulKc-FQPvyaHi95KFbUSuAwn7JVlUq9iYUgcKoOsiIMNCRPlk4z7xZKRMiNKlMDyM5L_0fzacr8kgGAONEpQixzkv3d09kCt5qZqE6iRqG5IqmFuKXh2R8w81iltg3jeNY4qlmj6W-FOSah0h4TnKL0x7aD5Fty-uLYycfSWJABT1MK7H3cV0_CbfooW_OF0HDy8t24sEIPgBD5abU4reN-KBdbNkOEV_K59ywCTn_Ps5cRLgY_U5eFnmk2GHqmQzjfoJip-aheCxbKdPzsRfEavpsvm-SUiFlq9jphyAYPtGw.WF3obl2IDtqgvMFRqVdYkD5s#",
+        "aria": ""
+      },
+      {
+        "text": "About",
+        "href": "https://www.montiboutique.com/en-JP/user/login?afd_azwaf_tok=eyJraWQiOiIxQTE2ODY0MTQ5MjEwQ0Y0M0VFMzlGM0FEN0NENUIyOEU3RkQxNDU2RDU0OThCRTA3NzVDMEM3NTEyNjBEODYzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cubW9udGlib3V0aXF1ZS5jb20iLCJleHAiOjE3ODY3MjY1ODcsImlhdCI6MTc4NjcyNjU3NywiaXNzIjoidGllcjEtNjg0NDZiNTVmNC1wenR2eiIsInN1YiI6IjEwMy4xNzkuNDUuMTUzIiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA4MTRUMTY1NjE3Wi0xNjg0NDZiNTVmNHB6dHZ6aEMxVFlPZDB4MDAwMDAwMDByeDAwMDAwMDAwMDE1YnEiLCJiIjoiWDJQTjVTZTFnbEg4R2R2QmxYUjFadkxOYjNzRDcwRVdZamdzZGlXY1MxbyIsImgiOiIxZ29sOFMzY3l1bFYyZWtNNlZJdm1ORkc1THlLeXAxZ1JwUWpybHpWanNJIn19.Bq-a1pBNsavB0PEeziMHWTxxoknQQoyaubGKQ3MHulKc-FQPvyaHi95KFbUSuAwn7JVlUq9iYUgcKoOsiIMNCRPlk4z7xZKRMiNKlMDyM5L_0fzacr8kgGAONEpQixzkv3d09kCt5qZqE6iRqG5IqmFuKXh2R8w81iltg3jeNY4qlmj6W-FOSah0h4TnKL0x7aD5Fty-uLYycfSWJABT1MK7H3cV0_CbfooW_OF0HDy8t24sEIPgBD5abU4reN-KBdbNkOEV_K59ywCTn_Ps5cRLgY_U5eFnmk2GHqmQzjfoJip-aheCxbKdPzsRfEavpsvm-SUiFlq9jphyAYPtGw.WF3obl2IDtqgvMFRqVdYkD5s#",
+        "aria": ""
+      },
+      {
+        "text": "DESIGNERS",
+        "href": "https://www.montiboutique.com/en-JP/women/designers",
+        "aria": ""
+      },
+      {
+        "text": "",
+        "href": "javascript:;",
+        "aria": "account"
+      }
+    ],
+    "body_preview": "Consent\nDetails\nAbout\nThis website uses cookies\nWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nDeny\nAllow selection\nAllow all\nWOMAN\n \nMAN\n \nKIDS\n \nHOME & LIFESTYLE\n \nDESIGNERS\n \nBOUTIQUE\nREGISTERED CUSTOMERS\nNEW CUSTOMERS\nCHECK EMAIL \nWEBSITE \nEmail\nPassword\nForgotten your password?\nLog in\nOR SIGN IN WITH\n \n \nCHECK EMAIL \nWEBSITE \nEmail\nPassword\nNation\nSelect a nation\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa (US)\nAndo"
+  },
+  "minettiangeloonline": {
+    "ok": true,
+    "final_url": "https://www.angelominetti.it/login",
+    "title": "Login",
+    "password_inputs": [
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "email_inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "buttons": [
+      "woman",
+      "man",
+      "kids",
+      "lifestyle",
+      "archive",
+      "designers",
+      "monferrato",
+      "SEARCH",
+      "SIGN IN",
+      "CART",
+      "HOME",
+      "Forgot your password?",
+      "SIGN IN",
+      "No account? Create one here",
+      "Our Heritage",
+      "The Boutiques",
+      "Opening Hours",
+      "Terms & Conditions",
+      "Privacy Policy",
+      "Cookies Policy",
+      "Shipping & Delivery",
+      "Returns",
+      "Secure payments",
+      "Contact us",
+      "Size info",
+      "New products",
+      "VIEW COOKIES POLICY.",
+      "ACCEPT",
+      "DECLINE"
+    ],
+    "auth_links": [
+      {
+        "text": "woman",
+        "href": "https://www.angelominetti.it/login#subMemu1",
+        "aria": ""
+      },
+      {
+        "text": "man",
+        "href": "https://www.angelominetti.it/login#subMemu2",
+        "aria": ""
+      },
+      {
+        "text": "kids",
+        "href": "https://www.angelominetti.it/login#subMemu3",
+        "aria": ""
+      },
+      {
+        "text": "lifestyle",
+        "href": "https://www.angelominetti.it/login#subMemu4",
+        "aria": ""
+      },
+      {
+        "text": "archive",
+        "href": "https://www.angelominetti.it/login#subMemu5",
+        "aria": ""
+      },
+      {
+        "text": "designers",
+        "href": "https://www.angelominetti.it/brands",
+        "aria": ""
+      },
+      {
+        "text": "SIGN IN",
+        "href": "https://www.angelominetti.it/my-account",
+        "aria": ""
+      },
+      {
+        "text": "No account? Create one here",
+        "href": "https://www.angelominetti.it/login?create_account=1",
+        "aria": ""
+      }
+    ],
+    "body_preview": "contact us: customerservice@angelominetti.it\nsubcribe to our newsletter and get 15% OFF\n \nwoman\nman\nkids\nlifestyle\narchive\ndesigners\nmonferrato\nSEARCH\nSIGN IN\nCART\nHOME  LOG IN TO YOUR ACCOUNT\nLog in to your account\nEmail\nPassword\nForgot your password?\nSIGN IN\nNo account? Create one here \nABOUT US\nOur Heritage\nThe Boutiques\nOpening Hours\nTERMS & LEGAL\nTerms & Conditions\nPrivacy Policy\nCookies Policy\nSHIPPING AND RETURNS\nShipping & Delivery\nReturns\nSecure payments\nINFORMATIONS\nContact us\nSize info\nNew products\n \n\nMinetti Angelo S.R.L. Via Roma 158, 15033 Casale Monferrato Codice Fiscale P.iva 00494280068 importo capitale sociale 15000 interamente versato Numero REA:AL -8659 Customerservice@angelominetti.it\n\nTO GIVE YOU THE BEST POSSIBLE EXPERIENCE, THIS SITE USES COOKIES. WE USE OUR OWN AND"
+  },
+  "eleonorabonucci": {
+    "ok": true,
+    "final_url": "https://eleonorabonucci.com/en/myaccount/login",
+    "title": "",
+    "password_inputs": [],
+    "email_inputs": [],
+    "inputs": [],
+    "buttons": [],
+    "auth_links": [],
+    "body_preview": "Forbidden."
+  },
+  "buyma": {
+    "ok": true,
+    "final_url": "https://www.buyma.com/login/",
+    "title": "ログイン-ファッション海外通販【BUYMA】",
+    "password_inputs": [
+      {
+        "type": "password",
+        "name": "txtLoginPass",
+        "id": "txtLoginPass",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "email_inputs": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search_txt",
+        "placeholder": "ブランド名・キーワードでさがす",
+        "autocomplete": "off"
+      },
+      {
+        "type": "text",
+        "name": "txtLoginId",
+        "id": "txtLoginId",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "password",
+        "name": "txtLoginPass",
+        "id": "txtLoginPass",
+        "placeholder": "",
+        "autocomplete": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "login_do",
+        "placeholder": "",
+        "autocomplete": ""
+      }
+    ],
+    "buttons": [
+      "今すぐ会員登録！",
+      "ログイン",
+      "セール",
+      "レディース",
+      "メンズ",
+      "ベビー・キッズ",
+      "ライフスタイル",
+      "ビューティー",
+      "リクエスト",
+      "カテゴリ選択",
+      "ブランド選択",
+      "こだわり検索",
+      "BUYMAトップ",
+      "パスワードを忘れた方",
+      "ログイン",
+      "LINEでログイン",
+      "facebookでログイン",
+      "楽天IDでログイン",
+      "外部サイトのID連携について",
+      "会員登録する (無料)",
+      "特集一覧",
+      "人気アイテムランキング",
+      "人気ブランドランキング",
+      "最新の出品商品",
+      "ブランド一覧",
+      "カテゴリ一覧",
+      "テーマ一覧",
+      "買付地一覧",
+      "リクエスト",
+      "パーソナルショッパーとは？",
+      "出品者になって売るには？",
+      "法人ショップ出店するには？",
+      "人気パーソナルショッパーランキング",
+      "プレミアムパーソナルショッパー",
+      "ショップ一覧",
+      "BUYMA CARD",
+      "BUYMA TRAVEL",
+      "ALL-IN（買取サービス）",
+      "STYLE HAUS",
+      "ガイド"
+    ],
+    "auth_links": [
+      {
+        "text": "ログイン",
+        "href": "https://www.buyma.com/login/",
+        "aria": ""
+      },
+      {
+        "text": "こだわり検索",
+        "href": "https://www.buyma.com/login/",
+        "aria": ""
+      },
+      {
+        "text": "LINEでログイン",
+        "href": "https://www.buyma.com/oauth/line?mode=login",
+        "aria": ""
+      },
+      {
+        "text": "facebookでログイン",
+        "href": "https://www.buyma.com/oauth/facebook/?mode=login",
+        "aria": ""
+      },
+      {
+        "text": "楽天IDでログイン",
+        "href": "https://www.buyma.com/oauth/rakuten/?mode=login",
+        "aria": ""
+      },
+      {
+        "text": "外部サイトのID連携について",
+        "href": "http://qa.buyma.com/login/2106.html",
+        "aria": ""
+      }
+    ],
+    "body_preview": "今すぐ会員登録！\nログイン\nセール\nレディース\nメンズ\nベビー・キッズ\nライフスタイル\nビューティー\nリクエスト\n\nAIでさがす\n会員限定\nカテゴリ選択\nブランド選択\nこだわり検索\n\nBUYMAトップ\nログイン\n\nログイン\nすでに会員の方\n\nログインメールアドレスと、パスワードを入力して「ログイン」ボタンをクリックしてください。\n\nログインメールアドレス\nパスワード\n\nパスワードを忘れた方\n\n※大文字・小文字を区別して、すべて半角で入力してください。\n\n外部サイトIDでログイン\n\n外部サイトIDを利用してBUYMAにログインできます。\n\nLINEでログイン \nfacebookでログイン \n楽天IDでログイン \n\n※既にBUYMA会員の方は、マイページ > 基本情報設定 からログイン設定を行ってください。\n\n※BUYMAの使用状況が外部サービスに送信されることはありません。\n\n外部サイトのID連携について\n\n初めての方\n\nBUYMAをご利用頂くには、BUYMA会員登録（無料）が必要です。簡単な手続きをお済ませ頂きますと、引き続きお買い物をお楽しみ頂けます。\n\n会員登録する (無料)\n商品をお探しなら\n特集一覧\n人気アイテムランキング\n人気ブランドランキング\n最新の出品商品\nブランド一覧\nカテゴリ一覧\nテーマ一覧\n買付地一覧\nリクエスト\nパーソナルショッパー\nパーソナルショッパーとは？\n出品者になって売るには？\n法人ショップ出店するには？\n人気パーソナルショッパーランキング\nプレミアムパーソナルショッパー\nショップ一覧\nオススメコンテンツ\nBUYMA CARD\nBUYMA TRAVEL\nALL-IN（買取サービス）\nSTYLE HAUS\nお困りの時は\nガイド\nBUYMAスタートガイド\nBUYMAかんたん購入ガイド\n安心安全な決済方法\nBUYMA偽物販売防止の取り組み\nBUYMA"
+  },
+  "_scraper_urls": {
+    "julian-fashion": {
+      "base": "https://www.julian-fashion.com/en-JP",
+      "login": "https://www.julian-fashion.com/en-JP"
+    },
+    "montiboutique": {
+      "base": "https://www.montiboutique.com/en-JP",
+      "login": "https://www.montiboutique.com/en-JP/user/login"
+    },
+    "minettiangeloonline": {
+      "base": "https://www.angelominetti.it/",
+      "login": "https://www.angelominetti.it/login"
+    },
+    "eleonorabonucci": {
+      "base": "https://eleonorabonucci.com/",
+      "login": "https://eleonorabonucci.com/en/myaccount/login"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+2026/08/15-03:36:03.551 1ce0 Reusing MANIFEST C:\development\EC-Buyma\workspace\tmp_ui_login_probe2\Default\IndexedDB\https_www.julian-fashion.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/15-03:36:03.556 1ce0 Recovering log #4
+2026/08/15-03:36:03.556 1ce0 Reusing old log C:\development\EC-Buyma\workspace\tmp_ui_login_probe2\Default\IndexedDB\https_www.julian-fashion.com_0.indexeddb.leveldb/000004.log 
+2026/08/15-03:36:03.689 3750 Level-0 table #8: started
+2026/08/15-03:36:03.691 3750 Level-0 table #8: 1422 bytes OK
+2026/08/15-03:36:03.694 3750 Delete type=0 #4
+2026/08/15-03:36:03.696 1ce0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

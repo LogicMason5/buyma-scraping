@@ -1,0 +1,10 @@
+2026/08/15-02:16:52.121 3a3c Creating DB C:\development\EC-Buyma\workspace\tmp_member_probe_profile\Default\IndexedDB\https_www.montiboutique.com_0.indexeddb.leveldb since it was missing.
+2026/08/15-02:16:52.126 3a3c Reusing MANIFEST C:\development\EC-Buyma\workspace\tmp_member_probe_profile\Default\IndexedDB\https_www.montiboutique.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/15-02:16:52.137 3734 Level-0 table #5: started
+2026/08/15-02:16:52.140 3734 Level-0 table #5: 1426 bytes OK
+2026/08/15-02:16:52.142 3734 Delete type=0 #3
+2026/08/15-02:16:52.143 3a3c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/15-02:16:53.377 3734 Level-0 table #7: started
+2026/08/15-02:16:53.379 3734 Level-0 table #7: 1410 bytes OK
+2026/08/15-02:16:53.381 3734 Delete type=0 #4
+2026/08/15-02:16:53.381 3a3c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

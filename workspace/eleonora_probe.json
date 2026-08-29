@@ -1,0 +1,257 @@
+{
+  "https://eleonorabonucci.com/en/myaccount/login": {
+    "url": "https://eleonorabonucci.com/en/myaccount/login",
+    "title": "",
+    "body": "Per la modalità screen-reader - fai clic sul primo pulsante del sito web\nGuida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra\nWOMEN\nMEN\nKIDS\nHOME\nNEW IN\nCLOTHING \nFOOTWEAR \nACCESSORIES \nBAGS \nSale \nDesigners\n My Account\nItaly - En | EUR - €\nWOMEN\nMEN\nKIDS\nITALY - EN | EUR - €\n MY ACCOUNT\nAND ON ORDERS OVER €200. EXCLUSIONS APPLY.\nEXTRA 10% OFF FW26 WITH PROMO CODE HOT10, VALID ON A SELECTION OF FW26 ITEMS MARKED WITH A ★\nNEW IN\nCLOTHING\nFOOTWEAR\nACCESSORIES\nBAGS\nSALE\nDESIGNERS\n0\n0\nLogin\n\nIf you already have an account, login with your e-mail address and password.\n\nEMAIL:\nPASSWORD:\nSIGN IN FORGOT PASSWORD\n\n\nCreate account\n\nIf this is your first time, enter your email address and click on \"Register\". It will help make your shopping experience even better.\n\nEMAIL:\nREGISTER\nCONTACT US\nOpening Hours:\nMon-Fri 08:30 - 13:00 / 14:00 - 17:30 (CE",
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "ph": ""
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$Modal$cmdviewModal",
+        "id": "Modal_cmdviewModal",
+        "ph": ""
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$Modal$cmdviewModal2",
+        "id": "Modal_cmdviewModal2",
+        "ph": ""
+      },
+      {
+        "type": "text",
+        "name": "ctl00$TextSearch",
+        "id": "TextSearch",
+        "ph": "Search & Hit Enter..."
+      },
+      {
+        "type": "text",
+        "name": "ctl00$MainContent$login$LoginE",
+        "id": "MainContent_login_LoginE",
+        "ph": ""
+      },
+      {
+        "type": "password",
+        "name": "ctl00$MainContent$login$LoginP",
+        "id": "MainContent_login_LoginP",
+        "ph": ""
+      },
+      {
+        "type": "text",
+        "name": "ctl00$MainContent$login$AddEmail",
+        "id": "MainContent_login_AddEmail",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hiddenInputToUpdateATBuffer_CommonToolkitScripts",
+        "id": "hiddenInputToUpdateATBuffer_CommonToolkitScripts",
+        "ph": ""
+      }
+    ]
+  },
+  "https://eleonorabonucci.com/en/login": {
+    "url": "https://eleonorabonucci.com/",
+    "title": "Shop ELEONORABONUCCI.COM - Luxury Worldwide Shopping - Men & Women Fashion Designer - ITALY",
+    "body": "Per la modalità screen-reader - fai clic sul primo pulsante del sito web\nGuida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra\nWOMEN\nMEN\nKIDS\nHOME\nNEW IN\nCLOTHING \nFOOTWEAR \nACCESSORIES \nBAGS \nSale \nDesigners\n My Account\nItaly - En | EUR - €\nWOMEN\nMEN\nKIDS\nITALY - EN | EUR - €\n MY ACCOUNT\nAND ON ORDERS OVER €200. EXCLUSIONS APPLY.\nEXTRA 10% OFF FW26 WITH PROMO CODE HOT10, VALID ON A SELECTION OF FW26 ITEMS MARKED WITH A ★\nNEW IN\nCLOTHING\nFOOTWEAR\nACCESSORIES\nBAGS\nSALE\nDESIGNERS\n0\n0\nDiscover latest Arrivals\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCH",
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "ph": ""
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$Modal$cmdviewModal",
+        "id": "Modal_cmdviewModal",
+        "ph": ""
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$Modal$cmdviewModal2",
+        "id": "Modal_cmdviewModal2",
+        "ph": ""
+      },
+      {
+        "type": "text",
+        "name": "ctl00$TextSearch",
+        "id": "TextSearch",
+        "ph": "Search & Hit Enter..."
+      },
+      {
+        "type": "hidden",
+        "name": "hiddenInputToUpdateATBuffer_CommonToolkitScripts",
+        "id": "hiddenInputToUpdateATBuffer_CommonToolkitScripts",
+        "ph": ""
+      }
+    ]
+  },
+  "https://eleonorabonucci.com/": {
+    "url": "https://eleonorabonucci.com/",
+    "title": "Shop ELEONORABONUCCI.COM - Luxury Worldwide Shopping - Men & Women Fashion Designer - ITALY",
+    "body": "Per la modalità screen-reader - fai clic sul primo pulsante del sito web\nGuida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra\nWOMEN\nMEN\nKIDS\nHOME\nNEW IN\nCLOTHING \nFOOTWEAR \nACCESSORIES \nBAGS \nSale \nDesigners\n My Account\nItaly - En | EUR - €\nWOMEN\nMEN\nKIDS\nITALY - EN | EUR - €\n MY ACCOUNT\nAND ON ORDERS OVER €200. EXCLUSIONS APPLY.\nEXTRA 10% OFF FW26 WITH PROMO CODE HOT10, VALID ON A SELECTION OF FW26 ITEMS MARKED WITH A ★\nNEW IN\nCLOTHING\nFOOTWEAR\nACCESSORIES\nBAGS\nSALE\nDESIGNERS\n0\n0\nDiscover latest Arrivals\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCHY\nBORSA ANTIGONA MINI\n€ 1,750.00\nFENDI\nBORSA MINI HOBO\n€ 1,750.00\nSAINT LAURENT\nBORSA LOULOU MEDIUM\n€ 2,650.00\nRABANNE\nCLUTCH 1968\n€ 1,590.00 -30% € 1,113.00\nGIVENCH",
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "ph": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "ph": ""
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$Modal$cmdviewModal",
+        "id": "Modal_cmdviewModal",
+        "ph": ""
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$Modal$cmdviewModal2",
+        "id": "Modal_cmdviewModal2",
+        "ph": ""
+      },
+      {
+        "type": "text",
+        "name": "ctl00$TextSearch",
+        "id": "TextSearch",
+        "ph": "Search & Hit Enter..."
+      },
+      {
+        "type": "hidden",
+        "name": "hiddenInputToUpdateATBuffer_CommonToolkitScripts",
+        "id": "hiddenInputToUpdateATBuffer_CommonToolkitScripts",
+        "ph": ""
+      }
+    ]
+  }
+}
